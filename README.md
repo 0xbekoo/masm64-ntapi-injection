@@ -40,6 +40,6 @@ Before running the project, some changes need to be made. Follow the steps below
 When changing the shellcode, make sure it has the same format. Values must have **'0'** at the beginning and **'h'** at the end. For example, you should write 0x41 as **041h**.
 
 ## 🚨 Disclaimer
-This project has been developed solely for educational purposes. It is intended to demonstrate concepts related to direct system calls using MASM64 Assembly and is not intended for use in any real-world malicious activities.
+This project has been developed solely for educational purposes. It is intended to demonstrate concepts related to NTAPI Injection using MASM64 Assembly and is not intended for use in any real-world malicious activities.
 
 Usage in real-world scenarios is at your own risk. The author is not responsible for any damage, misuse, or legal consequences that may arise from using or distributing this project. 
